@@ -8,7 +8,7 @@ c. The title page will also have the search for movie genres and a lovely pictur
 d. Once the user chooses a genre, the search results will be filtered to show those with the specified genre.
 
 3. Visual
-![FrontPage](/assets/MovieApp.JPG)
+![FrontPage](MvcMovie/assets/MovieApp.JPG)
 
 4. API - No API's were harmed in the making of this.
 
